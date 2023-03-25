@@ -119,7 +119,7 @@ Visit and follow [certbot instructions](https://certbot.eff.org/instructions).
 
 ## Challenge #2: Get me Lucas
 
-Objective: When querying to `https://lucas.groupXX.socra-sigl.fr` in your browser, user gets redirected to `https://github.com/LucasBoisserie`
+Objective: When querying to `https://lucas.groupXX.socra-sigl.fr` in your browser, user gets proxied to `https://github.com/LucasBoisserie`
 
 You should only have to add a new `server {}` block in your nginx configuration.
 
