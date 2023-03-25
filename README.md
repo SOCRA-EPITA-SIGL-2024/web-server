@@ -114,7 +114,7 @@ Use `certbot` and `let's encrypt` to manage your `SSL` certificates.
 
 Visit and follow [certbot instructions](https://certbot.eff.org/instructions).
 
-> Note: You can find out which system you're server is running with `uname -a` command.
+> Note: You can find out which system you're server is running with `uname -a` command. And get version of your system using `lsb_release -a`
 
 
 ## Challenge #2: Get me Lucas
