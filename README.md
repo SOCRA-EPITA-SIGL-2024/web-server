@@ -38,6 +38,7 @@ To do so:
 # From your favourite terminal session
 
 # SSH KEY path can be relative or absolute
+# make sure to replace XX by your group number
 $ ssh -i <path_to_your_ssh_key> sigl@groupXX.socra-sigl.fr
 
 # Accept the prompt message (only happens on first SSH connection)
