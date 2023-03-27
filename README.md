@@ -108,6 +108,7 @@ Congratulation, you just deployed your first version of SOCRA on internet!
 ## Challenge #1: Secure me
 
 Objective: Catter for `https` requests:
+
 - When visiting `https://groupXX.socra-sigl.fr` you reach your html page
 - When visiting `http://groupXX.socra-sigl.fr` you get redirected to `https://groupXX.socra-sigl.fr` and you reach your html page
 
