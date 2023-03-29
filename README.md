@@ -20,8 +20,8 @@ Only one repository is needed per pair of students
 # SOCRA Group 26
 
 Owners:
-- fauchi_f <florent.fauchille@epita.fr>
-- boisse_l <lucas.boisserie@epita.fr>
+- florent.fauchille <florent.fauchille@epita.fr>
+- lucas.boisserie <lucas.boisserie@epita.fr>
 ```
 - And add teachers as collaborators:
   - lucas: [LucasBoisserie](https://github.com/LucasBoisserie)
@@ -50,8 +50,8 @@ $ ssh -i <path_to_your_ssh_key> sigl@groupXX.socra-sigl.fr
 - Add an `AUTHORS.txt` in sigl's user home with your logins:
 ```plain
 # Inside AUTHORS.txt
-* fauchi_f
-* boisse_l
+* florent.fauchille
+* lucas.boisserie
 ```
 
 ## Step 2 - Deploy your first web application
