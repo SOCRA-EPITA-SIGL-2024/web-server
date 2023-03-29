@@ -77,8 +77,8 @@ sudo apt install nginx
   <body>
     <h1>Group XX</h1>
     <ul>
-      <li>fauchi_f</li>
-      <li>boisse_l</li>
+      <li>florent.fauchille</li>
+      <li>lucas.boisserie</li>
     </ul>
   </body>
 </html>
